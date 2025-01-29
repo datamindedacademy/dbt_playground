@@ -1,5 +1,5 @@
 {
-    "name": "dbt playground Codespaces",
+    "name": "dbt playground codespace",
     "build": {
         "dockerfile": "Dockerfile"
     },
