@@ -1,18 +1,13 @@
 # dbt Playground
 
 This repository is a self-contained dbt project that you can run with one click in a
-Gitpod workspace.
+Gitpod or Codespaces workspace.
 
-Click the button below to open this repository in a Gitpod:
-
-[![Open in
-Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer/)
-
-
-If the above button doesn't work (depends on your browser), use the one below:
+Click the button below to open this repository in a Gitpod or in Codespaces:
 
 [![Open in
 Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/datamindedacademy/dbt_playground.git)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/datamindedacademy/dbt_playground)
 
 ## Features
 
@@ -22,7 +17,6 @@ Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https:/
 
 ## Things to do
 
-* Open the repo in Gitpod (see above)
 * Run `dbt build`. This is the same as running `dbt seed`, `dbt run` and `dbt test`.
 * In the SQLTools extension on the left, check out the table(s) and view(s) that dbt created.
 * When editing a model, use the DBT Power User buttons on the top-right, or use shortcuts
